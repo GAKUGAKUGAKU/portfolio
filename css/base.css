@@ -31,6 +31,14 @@ body {
   -webkit-transform: translate(0, 0);
 }
 
+header {
+  background-color: lightgoldenrodyellow;
+}
+
+#content {
+  padding: 100px 0 0 0;
+}
+
 section {
   overflow: hidden;
   -webkit-transition: .8s;

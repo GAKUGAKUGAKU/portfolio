@@ -1,3 +1,4 @@
+// 参考URL：https://qiita.com/Y_ASAMOTO/items/d5f33ecf5bfbb7f028a5
 $bg-gray: #f7f7f7;
 $bg-footer: #444;
 
@@ -28,6 +29,14 @@ body {
   opacity: 1.0;
   transform: translate(0, 0);
   -webkit-transform: translate(0, 0);
+}
+
+header{
+	background-color: lightgoldenrodyellow;
+}
+
+#content{
+	padding: 100px 0 0 0;
 }
 
 section {
